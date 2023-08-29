@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">I am frontend developer from Uruguay</h3>
+<h3 align="center">I am Fullstack developer from Uruguay</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **UX Desing**
 
 - 📫 How to reach me **agustinsosa2563@gmail.com**
 
